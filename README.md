@@ -1,5 +1,5 @@
-<div id="header" align="left">
-  <img src="https://media0.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="1000"/>
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="300"/>
 </div>
 
 <div id="badges">
@@ -9,14 +9,15 @@
 </div>
 
 <h1>
-  hey there
+  Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  , I'm Vishnu Kannanchery
 </h1>
 
-<h1>
-I am a embedded software Developer.
+<h3>
+I am a Embedded Software Developer.
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
-</h1>
+</h3>
 
 - :telescope: I’m working as a Software Engineer and contributing to embedded software applications.
 
@@ -41,6 +42,8 @@ I am a embedded software Developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  
- 
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VishnuKannanchery&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuKannanchery&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
