@@ -29,7 +29,7 @@ I'm a Embedded Software Developer!!
 
 - 😄 Pronouns: He/Herr(German)
 
-- ⚡ Fun fact: I speak 2 languages ( English, Malayalam)
+- ⚡ I speak 2 languages ( English, Malayalam).
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VishnuKannanchery-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishnukannanchery97/)
 <div>
