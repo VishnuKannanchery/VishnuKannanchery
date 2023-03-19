@@ -1,20 +1,20 @@
- <img align="right" alt="GIF" src="https://media0.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="500" height="320" />
 
+
+
+<h1>
+   Hello World, I'm Vishnu
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ 
+</h1>
 <a href="https://www.linkedin.com/in/vishnukannanchery97/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-<h1>
-   Hello World
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  , I'm Vishnu
-</h1>
-
 <h2>
 I'm a Embedded Software Developer!!
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
-</h2>
 
+</h2>
+<img align="right" alt="GIF" src="https://github.com/VishnuKannanchery/VishnuKannanchery/blob/main/giphy.gif" width="500" height="320" />
 
 
 - ✍ You can find my projects here [portfolio](https://www.linkedin.com/in/vishnukannanchery97/)
