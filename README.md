@@ -17,7 +17,7 @@ I'm a Embedded Software Developer!!
 <img align="right" alt="GIF" src="https://github.com/VishnuKannanchery/VishnuKannanchery/blob/main/giphy.gif" width="500" height="320" />
 
 
-- ✍ You can find my projects here [portfolio](https://www.linkedin.com/in/vishnukannanchery97/)
+- ✍ You can find my projects here [portfolio](https://github.com/VishnuKannanchery?tab=repositories)
 
 - 🔭 I’m currently working on my thesis.
 
